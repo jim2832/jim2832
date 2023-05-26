@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jim Lee</h1>
-<h3 align="center">A graduate student from Taiwan</h3>
+<!--<h3 align="center">A graduate student from Taiwan</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jim2832&label=Profile%20views&color=0e75b6&style=flat" alt="jim2832" /> </p>
 
